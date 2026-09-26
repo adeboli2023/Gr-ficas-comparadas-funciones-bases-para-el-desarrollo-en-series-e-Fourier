@@ -1,6 +1,6 @@
-# Gráficas comparadas: funciones base en series de Fourier
+# Gráficas comparadas: funciones base para el desarrollo en series de Fourier.
 
-Este repositorio contiene notebooks interactivos para visualizar las **funciones base trigonométricas** utilizadas en el desarrollo en series de Fourier.
+Este repositorio contiene notebooks interactivos para visualizar las **funciones trigonométricas** utilizadas como **base** en el desarrollo en series de Fourier.
 
 ## Contenido
 - `Graficas_Interactivas_Base_Fourier.ipynb`: Notebook con sliders para explorar cosenos y senos clásicos y con período \(T\).
