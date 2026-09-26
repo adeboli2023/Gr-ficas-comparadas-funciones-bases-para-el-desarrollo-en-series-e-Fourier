@@ -11,3 +11,4 @@ Haz clic en el siguiente enlace para abrir el notebook en un entorno interactivo
 
 ## Objetivo didáctico
 Comparar las funciones \(c_1, c_2, s_1, s_2\) con sus versiones escaladas \(c^T_1, c^T_2, s^T_1, s^T_2\), mostrando cómo se construye la **base ortogonal** de Fourier y cómo el período afecta la frecuencia de las funciones.
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adeboli2023/Gr-ficas-comparadas-funciones-bases-para-el-desarrollo-en-series-e-Fourier/main?filepath=Graficas_Interactivas_Base_Fourier.ipynb)
